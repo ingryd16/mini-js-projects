@@ -1,0 +1,29 @@
+@media (max-width:640px) {
+    .card{
+        width: 80%;
+        height: 70%;
+    }
+
+    .title{
+        font-size: 30px;    
+    }
+
+    .text{
+        font-size: 20px;
+    }
+}
+
+@media (max-width:960px) {
+    .card{
+        width: 60%;
+        height: 70%;
+    }
+
+    .title{
+        font-size: 50px;    
+    }
+
+    .text{
+        font-size: 25px;
+    }
+}
