@@ -1,0 +1,14 @@
+@media (max-width:640px) {
+    .btns {
+        display: grid;
+        height: 150px;
+    }
+
+    button {
+        width: 100px;
+    }
+
+    img{
+        width: 200px;
+    }
+}
